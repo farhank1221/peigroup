@@ -33,5 +33,5 @@ This project involves analyzing three datasets:
 - **Shipping Data**:
   - Columns: `Shipping_ID`, `Customer_ID`, `Status`, `Shipping_Cost`
 
-## Project Structure
-The project is organized as follows:
+
+
